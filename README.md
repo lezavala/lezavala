@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- :soccer: Fun fact: Soccer is the most popular game in the world. In many countries it is known as “football”.
+
+
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=lezavala&count_private=true&theme=cobalt&show_icons=true)
